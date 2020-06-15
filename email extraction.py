@@ -44,4 +44,3 @@ elif escolha == 1:
         print(f'Ocorreu um erro inesperado {erro}')
 else:
     print('Digite apenas numeros/Digite apenas os numeros mostrados')
-#https://radiosertaoweb.com/noticia/404260/procura-se-jovem-esta-desaparecido-em-paraibano-ha-quatro-dias
