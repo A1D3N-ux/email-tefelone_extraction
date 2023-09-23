@@ -4,7 +4,7 @@ import re
 import pyfiglet
 emails_encontrados = []
 telefone_encontrados = []
-ascii_banner = pyfiglet.figlet_format("Programmed by slaki")
+ascii_banner = pyfiglet.figlet_format("Programmed by A1D3N")
 print(ascii_banner)
 header = {
 'user_agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36'
